@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning ... Odin Project
 - 📫 How to reach me ... gonna leave blank for now ;P
 
+First edit from CLI into GitHub
+
 <!---
 GBar333/GBar333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
